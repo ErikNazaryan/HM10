@@ -1,0 +1,21 @@
+# Source Control
+.git
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+
+# Application Data
+*.log
+app.db
