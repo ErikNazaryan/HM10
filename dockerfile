@@ -1,3 +1,4 @@
+```dockerfile
 # Stage 1: Dependency Compiler
 FROM python:3.11-slim AS deps-resolver
 
